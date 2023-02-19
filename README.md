@@ -1,5 +1,5 @@
 # Carvana: To Buy or Not to Buy?
-1. In this project I tried analyzing the business problem of Carvana- is the first complete online auto retailer offering vehicle purchase. They revolutionizes the car buying process through proprietary technology, transparency and exceptional customer service, while eliminating the pressure, hassles and hidden fees that come with buying from a dealership.
+1. In this project, I tried analyzing the business problem of Carvana- which is the first complete online auto retailer offering vehicle purchases. They revolutionize the car buying process through proprietary technology, transparency and exceptional customer service while eliminating the pressure, hassles and hidden fees that come with buying from a dealership.
 2. The dataset to solve the problem is avaialble on kaggle, however- this is my MBA college project under subject- Data Visualization.
 3. I prepared dashboard to bring insight from the dataset, there were few problem statement under this project.
 ## Problem Statement 1: Have Carvana’s algorithms been effective in predicting which of its cars are and are not “kicks”?
